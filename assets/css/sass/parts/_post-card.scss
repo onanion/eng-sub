@@ -64,7 +64,7 @@
       text-transform: uppercase;
       color: $white;
       &:hover {
-        text-decoration: underline;
+        text-decoration: none;
       }
     }
   }
@@ -76,7 +76,7 @@ padding: 10px;
 border-left: 1px solid #E0E0E0;
 }
 
-hbt {
+.hbt {
 color:#000;
 background:#fff;
 padding:6px 15px;
