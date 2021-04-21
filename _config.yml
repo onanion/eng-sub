@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Moexik # add your name
 author-pic: htmlyrics.png
-about-author: <i class="fa fa-youtube-play" aria-hidden="true"></i><a target="_blank" rel="me" href="https://youtube.com/c/moexik" title="Subscribe on Youtube">Subscribe on Youtube</a>
+about-author: <i class="fa fa-youtube-play" aria-hidden="true"></i><a target="_blank" rel="me" href="https://youtube.com/c/moexik" title="Subscribe on Youtube"> Subscribe on Youtube</a>
 
 # Contact links
 email: # Add your Email address
