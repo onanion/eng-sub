@@ -1571,7 +1571,7 @@ pre code {
 }
 
 .blog-tags .tag-list span a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   opacity: .8;
 }
 
