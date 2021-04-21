@@ -3,7 +3,7 @@ layout: post
 title: Cerita Hari Ini - Everyone Does Everything New
 date: 2020-06-01 13:32:20 +0300
 description: Download lagu everyone does everything new (e.d.e.n) - cerita hari ini.mp3 # Add post description (optional)
-img: cover/Everyone_does_everything_new_cerita_hari_ini.webp # Add image post (optional)
+img: Everyone_does_everything_new_cerita_hari_ini.webp # Add image post (optional)
 tags: [Everyone Does Everything New]
 author: Moexik # Add name author (optional)
 ---
