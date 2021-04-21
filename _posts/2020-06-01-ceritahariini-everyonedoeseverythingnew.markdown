@@ -13,5 +13,5 @@ author: Moexik # Add name author (optional)
 </audio><br />
 
 <center>
-<a href="https://drive.google.com/uc?authuser=0&id=1tCTxHhn5XkD8XZLJSnt3oQPQsZd7wAiY&export=download" class='hbt'><i class="fa fa-chevron-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="https://drive.google.com/uc?authuser=0&id=1tCTxHhn5XkD8XZLJSnt3oQPQsZd7wAiY&export=download" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
