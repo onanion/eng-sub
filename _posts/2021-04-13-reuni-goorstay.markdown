@@ -1,28 +1,17 @@
 ---
 layout: post
-title: oime to think
-date: 2021-04-13 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-5.jpg # Add image post (optional)
-tags: [Blog, Meditation]
-author: # Add name author (optional)
+title: Derita Ini - Everyone Does Everything New
+date: 2020-06-01 14:32:20 +0300
+description: Download lagu everyone does everything new (e.d.e.n) - derita ini.mp3 # Add post description (optional)
+img: cover/Everyone_does_everything_new_derita_ini.webp # Add image post (optional)
+tags: [Everyone Does Everything New]
+author: Moexik # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<audio class='js-player' style="--plyr-color-main: #212121;" controls>
+<source src="https://drive.google.com/uc?authuser=0&id=1Hy5b9TufIsHVHCS9BIou_PNpqrhkcfiq&export=download" type="audio/mp3">
+</audio><br />
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<center>
+<a href="https://drive.google.com/uc?authuser=0&id=1Hy5b9TufIsHVHCS9BIou_PNpqrhkcfiq&export=download" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+</center><br />
