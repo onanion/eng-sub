@@ -15,10 +15,12 @@ layout: default
         {{page.content | markdownify}}
         <div class="page-footer">
           <div class="page-tag">
+              <center>
             <span><i class="fa fa-hashtag" aria-hidden="true"></i></span>
             {% for tag in page.tags %}
             <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
             {% endfor %}
+              </center>
           </div><!-- End Tags -->
         </div>
         {% include author-box.html %}
