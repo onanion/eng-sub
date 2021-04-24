@@ -13,5 +13,5 @@ author: Moexik # Add name author (optional)
 </audio><br />
 
 <center>
-<a href="https://moexik.github.io/dl/ceritahariini-everyonedoeseverythingnew/" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/dl/ceritahariini-everyonedoeseverythingnew/" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
