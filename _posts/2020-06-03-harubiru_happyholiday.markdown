@@ -3,7 +3,7 @@ layout: post
 title: Haru Biru - Happy Holiday
 date: 2020-06-03 19:32:20 +0300
 description: Download lagu happy holiday - haru biru.mp3 # Add post description (optional)
-img: cover/a2510900416_16.jpg # Add image post (optional)
+img: cover/Happy_holiday_haru_biru.jpg # Add image post (optional)
 tags: [Happy Holiday]
 author: Moexik # Add name author (optional)
 ---
