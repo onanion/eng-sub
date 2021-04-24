@@ -3,7 +3,7 @@ layout: post
 title: Lone Wolf - Stand Up Please
 date: 2020-06-03 20:52:20 +0300
 description: Download lagu stand up please - lone wolf.mp3 # Add post description (optional)
-img: cover/Stand_up_please_lonewolf.jpg # Add image post (optional)
+img: cover/Stand_up_please_lone_wolf.jpg # Add image post (optional)
 tags: [Stand Up Please]
 author: Moexik # Add name author (optional)
 ---
