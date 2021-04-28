@@ -3,7 +3,7 @@ layout: post
 title: Sahabat - Just Hope Out
 date: 2020-06-04 20:18:20 +0300
 description: Download lagu just hope out - sahabat.mp3 # Add post description (optional)
-img: cover/Just_hope_sahabat.jpg # Add image post (optional)
+img: cover/Just_hope_out_sahabat.jpg # Add image post (optional)
 tags: [Just Hope Out]
 author: Moexik # Add name author (optional)
 ---
