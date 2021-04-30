@@ -4,7 +4,7 @@ title: Malas - Satu Kepalan
 date: 2020-06-17 10:48:20 +0300
 description: Download lagu satu kepalan - malas.mp3 # Add post description (optional)
 img: cover/Satu_kepalan_malas.jpg # Add image post (optional)
-tags: [Lowdick]
+tags: [Satu Kepalan]
 author: Moexik # Add name author (optional)
 ---
 
