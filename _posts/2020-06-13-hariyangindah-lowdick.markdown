@@ -3,7 +3,7 @@ layout: post
 title: Hari Yang Indah - Lowdick
 date: 2020-06-13 14:38:20 +0300
 description: Download lagu lowdick - hari yang indah.mp3 # Add post description (optional)
-img: cover/Lowdick_jari_yang_indah.webp # Add image post (optional)
+img: cover/Lowdick_hari_yang_indah.webp # Add image post (optional)
 tags: [Lowdick]
 author: Moexik # Add name author (optional)
 ---
