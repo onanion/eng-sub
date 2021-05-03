@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Masih (Gili dan Indah) - Uncle Bob
-date: 2020-06-17 11:48:20 +0300
+date: 2020-06-19 10:48:20 +0300
 description: Download lagu uncle bob - masih (gili dan indah).mp3 # Add post description (optional)
 img: cover/Uncle_bob_masih_gili_dan_indah.jpg # Add image post (optional)
-tags: [Unclebob]
+tags: [Uncle Bob]
 author: Moexik # Add name author (optional)
 ---
 
