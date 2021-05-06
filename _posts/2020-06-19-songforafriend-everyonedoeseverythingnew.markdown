@@ -2,7 +2,7 @@
 layout: post
 title: Song For A Friend - Everyone Does Everything New
 date: 2020-06-19 11:48:20 +0300
-description: Download lagu everyone does everything new.mp3 # Add post description (optional)
+description: Download lagu everyone does everything new - song for a friend.mp3 # Add post description (optional)
 img: cover/Everyone_does_everything_new_song_for_a_friend.webp # Add image post (optional)
 tags: [Everyone Does Everything New]
 author: Moexik # Add name author (optional)
