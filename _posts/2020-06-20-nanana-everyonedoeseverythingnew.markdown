@@ -3,7 +3,7 @@ layout: post
 title: Nanana - Everyone Does Everything New
 date: 2020-06-20 08:48:20 +0300
 description: Download lagu everyone does everything new - nanana.mp3 # Add post description (optional)
-img: cover/Everyone_does_everything_new_nanana # Add image post (optional)
+img: cover/Everyone_does_everything_new_nanana.webp # Add image post (optional)
 tags: [Everyone Does Everything New]
 author: Moexik # Add name author (optional)
 ---
