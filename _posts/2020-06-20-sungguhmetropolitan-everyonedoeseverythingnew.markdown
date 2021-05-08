@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sungguh Metropolitan - Everyone Does Everything New
-date: 2020-06-20 01:59:20 +0300
+date: 2020-06-20 13:59:20 +0300
 description: Download lagu everyone does everything new - sungguh metropolitan.mp3 # Add post description (optional)
-img: cover/Everyone_does_everything_new_sunguh_metropolitan.webp # Add image post (optional)
+img: cover/Everyone_does_everything_new_sungguh_metropolitan.webp # Add image post (optional)
 tags: [Everyone Does Everything New]
 author: Moexik # Add name author (optional)
 ---
