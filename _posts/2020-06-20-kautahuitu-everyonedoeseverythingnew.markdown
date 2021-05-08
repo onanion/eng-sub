@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kau Tahu Itu - Everyone Does Everything New
-date: 2020-06-20 10:48:20 +0300
+date: 2020-06-20 10:49:20 +0300
 description: Download lagu everyone does everything new - kau tahu itu.mp3 # Add post description (optional)
 img: cover/Everyone_does_everything_new_kau_tahu_itu.webp # Add image post (optional)
 tags: [Everyone Does Everything New]
