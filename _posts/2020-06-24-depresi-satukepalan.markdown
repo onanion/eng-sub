@@ -4,7 +4,7 @@ title: Depresi - Satu Kepalan
 date: 2020-06-24 17:59:20 +0300
 description: Download lagu satu kepalan - depresi.mp3 # Add post description (optional)
 img: cover/Satu_kepalan_depresi.jpg # Add image post (optional)
-tags: [Zecurity]
+tags: [Satu Kepalan]
 author: Moexik # Add name author (optional)
 ---
 
