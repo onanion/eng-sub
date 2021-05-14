@@ -1126,7 +1126,8 @@ pre code {
   font-size: 18px;
   color: #fff;
   margin: 0 0 10px;
-  background-color: black;
+  padding: 5px 5px 5px 13px;
+  background-color: red;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
