@@ -1126,7 +1126,10 @@ pre code {
   font-size: 18px;
   color: #fff;
   margin: 0 0 10px;
-  background-color: red;
+  background-color: black;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .post-card .post-card-body .post-card-title:hover {
