@@ -1126,10 +1126,10 @@ pre code {
   font-size: 18px;
   color: #fff;
   margin: 0;
-  background-color: yellow;
+  background-color: cyan;
   white-space: nowrap;
   overflow: hidden;
-  display:inline;
+  display: inline-block;
   text-overflow: ellipsis;
 }
 
