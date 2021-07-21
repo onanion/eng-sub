@@ -3,7 +3,7 @@ layout: post
 title: We Are Punkrock'a - X-Men
 date: 2020-06-26 09:18:20 +0300
 description: Download lagu x-men - we are punkrock'a.mp3 # Add post description (optional)
-img: cover/X-men_we_are_punkrock_a.jpg # Add image post (optional)
+img: cover/X-men_we_are_punkrock_a.webp # Add image post (optional)
 tags: [X-Men]
 author: Moexik # Add name author (optional)
 ---
