@@ -1310,7 +1310,7 @@ pre code {
   left: 2.5%;
   bottom: 10%;
   color: #fff;
-  background-color: black;
+  text-shadow: 2px 2px 5px black;
 }
 
 .recent-box .recent-list .recent-item:hover {
@@ -1672,7 +1672,7 @@ pre code {
     left: 2.5%;
     bottom: 10%;
     color: #fff;
-    background-color: black;
+    text-shadow: 2px 2px 5px black;
   }
 }
 
@@ -1720,7 +1720,7 @@ pre code {
     left: 2.5%;
     bottom: 10%;
     color: #fff;
-    background-color: black;
+    text-shadow: 2px 2px 5px black;
   }
   .newsletter .newsletter-box .subscribe-btn {
     width: 80px;
