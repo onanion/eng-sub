@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bekas Lonteku - Zecurity test test test test test test
+title: Bekas Lonteku - Zecurity
 date: 2020-06-24 21:29:20 +0300
 description: Download lagu zecurity - bekas lonteku.mp3 # Add post description (optional)
 img: cover/Zecurity_bekas_lonteku.webp # Add image post (optional)
