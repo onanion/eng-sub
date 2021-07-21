@@ -1120,17 +1120,24 @@ pre code {
 }
 
 .post-card .post-card-body .post-card-title {
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 18px;
   color: #fff;
-  margin: 0;
-  background-color: blue;
-  white-space: nowrap;
-  overflow: hidden;
-  display: block;
-  text-overflow: ellipsis;
+ font: bold 15px/18px Arial;
+ height: 18px;
+ margin: 0 5px 0 5px;
+ padding: 0;
+ position: relative;
+ text-align: center;
+ text-decoration: none;
+ width: 140px;
+
+ /* 
+ Note: The Below 4 Lines are necessary for ellipsis to work.
+ */
+
+ display: block;/* Change it as per your requirement. */
+ overflow: hidden;
+ text-overflow: ellipsis;
+ white-space: nowrap;
 }
 
 .post-card .post-card-body .post-card-title:hover {
