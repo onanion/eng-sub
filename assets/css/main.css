@@ -1684,7 +1684,7 @@ pre code {
   position: relative;
   text-align: left;
   text-decoration: none;
-  width: 300px;
+  width: 340px;
 
  /* 
  Note: The Below 4 Lines are necessary for ellipsis to work.
@@ -1743,6 +1743,26 @@ pre code {
     color: #fff;
     text-shadow: 1px 1px 1px black;
   }
+  .post-card .post-card-body .post-card-title {
+  color: #fff;
+  font: bold 15px/18px 'Lato', sans-serif;
+  height: 18px;
+  margin: 0 5px 0 5px;
+  padding: 0;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  width: 300px;
+
+ /* 
+ Note: The Below 4 Lines are necessary for ellipsis to work.
+ */
+
+  display: block;/* Change it as per your requirement. */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
   .newsletter .newsletter-box .subscribe-btn {
     width: 80px;
     height: 40px;
