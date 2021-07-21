@@ -1120,7 +1120,7 @@ pre code {
 }
 
 .post-card .post-card-body .post-card-title {
-  color: #fff;
+  color: #000;
  font: bold 15px/18px Arial;
  height: 18px;
  margin: 0 5px 0 5px;
@@ -1128,7 +1128,7 @@ pre code {
  position: relative;
  text-align: center;
  text-decoration: none;
- width: 140px;
+ width: 340px;
 
  /* 
  Note: The Below 4 Lines are necessary for ellipsis to work.
