@@ -1129,7 +1129,7 @@ pre code {
   background-color: cyan;
   white-space: nowrap;
   overflow: hidden;
-  display: inline-block;
+  display: block;
   text-overflow: ellipsis;
 }
 
