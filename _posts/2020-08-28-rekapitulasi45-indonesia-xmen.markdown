@@ -13,5 +13,5 @@ author: Moexik # Add name author (optional)
 </audio><br />
 
 <center>
-<a href="/dl/rekapitulasi45indonesia-xmen/" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
+<a href="/dl/rekapitulasi45-indonesia-xmen/" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center><br />
