@@ -3,7 +3,7 @@ layout: post
 title: Goodbye Aprilia (Album Version) - X-Men
 date: 2020-09-02 09:18:20 +0300
 description: Download lagu x-men - goodbye aprilia (album version).mp3 # Add post description (optional)
-img: cover/X-men_goodbye_aprilia_album_veraion.webp # Add image post (optional)
+img: cover/X-men_goodbye_aprilia_album_version.webp # Add image post (optional)
 tags: [X-Men]
 author: Moexik # Add name author (optional)
 ---
