@@ -1652,7 +1652,7 @@ pre code {
     font-size: 24px;
   }
   .post-card-box li {
-    width: 100%;
+    width: 80%;
     margin-bottom: 20px;
   }
   .post-card-box li:last-child {
@@ -1684,7 +1684,7 @@ pre code {
   position: relative;
   text-align: left;
   text-decoration: none;
-  width: 310px;
+  width: 510px;
 
  /* 
  Note: The Below 4 Lines are necessary for ellipsis to work.
