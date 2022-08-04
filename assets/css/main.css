@@ -1091,7 +1091,7 @@ pre code {
 .post-card .post-card-image {
   display: block;
   width: 100%;
-  min-height: 300px;
+  min-height: 150px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1684,7 +1684,7 @@ pre code {
   position: relative;
   text-align: left;
   text-decoration: none;
-  width: 310px;
+  width: 510px;
 
  /* 
  Note: The Below 4 Lines are necessary for ellipsis to work.
