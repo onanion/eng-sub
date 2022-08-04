@@ -1075,7 +1075,7 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 100%;
+  width: 50%;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
@@ -1091,7 +1091,7 @@ pre code {
 .post-card .post-card-image {
   display: block;
   width: 100%;
-  min-height: 150px;
+  min-height: 300px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1743,9 +1743,6 @@ pre code {
     color: #fff;
     text-shadow: 1px 1px 1px black;
   }
-
-  .post-card-box li {
-    width: 100%;
 
   .post-card .post-card-body .post-card-title {
   color: #fff;
