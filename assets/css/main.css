@@ -1652,7 +1652,7 @@ pre code {
     font-size: 24px;
   }
   .post-card-box li {
-    width: 80%;
+    width: 100%;
     margin-bottom: 20px;
   }
   .post-card-box li:last-child {
@@ -1743,6 +1743,10 @@ pre code {
     color: #fff;
     text-shadow: 1px 1px 1px black;
   }
+
+  .post-card-box li {
+    width: 100%;
+
   .post-card .post-card-body .post-card-title {
   color: #fff;
   font: bold 15px/18px 'Lato', sans-serif;
