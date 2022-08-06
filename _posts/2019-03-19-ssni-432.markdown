@@ -76,11 +76,12 @@ img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESxdUUaK71v5vZE
 </div>
 </div>
 </div>
-
+<br />
 <center>
 <a href="/d/ssni-432-eng-sub" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
 </center>
 <hr />
+<br />
 <table>
   <tr>
     <th>Info</th>
