@@ -1,7 +1,6 @@
 title: Onanion - JAV English Subtitle
 email: moexik@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Enjoy watch jab & free download english subtitle special for ya.
+description: Enjoy watch jav & free download english subtitle special for ya.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,7 +17,7 @@ email: blckmelodic@gmail.com # Add your Email address
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier:  # Add your discus identifier
+discus_identifier: onanion # Add your discus identifier
 
 # Tracker
 analytics: UA-xxxxxxxxx-1 # Google Analytics
