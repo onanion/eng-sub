@@ -1,18 +1,18 @@
-title: Moexik - Music in My Heart
+title: Onanion - JAV English Subtitle
 email: moexik@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Enjoy listening music & free download .mp3 special for ya.
+  Enjoy watch jab & free download english subtitle special for ya.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Moexik # add your name
+author: Onanion # add your name
 author-pic: htmlyrics.png
 about-author: <i class="fa fa-youtube-play" aria-hidden="true"></i><a target="_blank" rel="me" href="https://youtube.com/c/moexik" title="Subscribe on Youtube"> Subscribe on Youtube</a>
 
 # Contact links
-email: moexik@gmail.com # Add your Email address
+email: blckmelodic@gmail.com # Add your Email address
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
@@ -21,10 +21,10 @@ mailchimp: # Add your MailChimp form identifier.
 discus_identifier:  # Add your discus identifier
 
 # Tracker
-analytics: UA-195354744-1 # Google Analytics
+analytics: UA-xxxxxxxxx-1 # Google Analytics
 
 # Paginate
-paginate: 18
+paginate: 13
 paginate_path: /page:num/
 
 # Build settings
