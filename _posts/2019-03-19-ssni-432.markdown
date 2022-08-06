@@ -98,7 +98,7 @@ img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESxdUUaK71v5vZE
   </tr>
   <tr>
     <td>Label</td>
-    <td> <a href="{{ site.baseurl }}/tags#SSNI">SSNI</a></td>
+    <td> <a href="{{ site.baseurl }}/label#SSNI">SSNI</a></td>
   </tr>
 </table>
 
