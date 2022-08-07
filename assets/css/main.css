@@ -1449,7 +1449,7 @@ pre code {
   left: 2.5%;
   bottom: 10%;
   color: #fff;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: 0px 0px 1px black, 0px 0px 2px black;
 }
 
 .recent-box .recent-list .recent-item:hover {
