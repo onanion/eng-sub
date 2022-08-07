@@ -76,10 +76,12 @@ img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESxdUUaK71v5vZE
 </div>
 </div>
 
-<br />
-<center>
-<a href="/d/ssni-432-eng-sub" ><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</a>
-</center>
+<div class="cont">
+<a href='/d/ssni-432-eng-sub'><div class="box one">
+<div class="item">
+<i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download</div>
+</div>
+</a></div>
 
 <br/>
 <hr />
