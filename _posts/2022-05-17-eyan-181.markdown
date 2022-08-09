@@ -128,11 +128,11 @@ Download</div>
   </tr>
   <tr>
     <td>Genre &nbsp;</td>
-    <td> <a href="{{ site.baseurl }}/categories#Creampie">Creampie</a>, <a href="{{ site.baseurl }}/categories#Incest">Incest</a>, <a href="{{ site.baseurl }}/categories#Married-Woman">Married Woman</a>, <a href="{{ site.baseurl }}/categories#Original-Collaboration">Original Collaboration</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a></td>
+    <td> <a href="{{ site.baseurl }}/categories#Creampie">Creampie</a>, <a href="{{ site.baseurl }}/categories#Incest">Incest</a>, <a href="{{ site.baseurl }}/categories#Married+Woman">Married Woman</a>, <a href="{{ site.baseurl }}/categories#Original+Collaboration">Original Collaboration</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a></td>
   </tr>
   <tr>
     <td>Star</td>
-    <td> <a href="{{ site.baseurl }}/tags#Kitano-Mina">Kitano Mina</a></td>
+    <td> <a href="{{ site.baseurl }}/tags#Kitano+Mina">Kitano Mina</a></td>
   </tr>
   <tr>
     <td>Label</td>
