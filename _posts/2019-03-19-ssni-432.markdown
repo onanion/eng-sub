@@ -92,11 +92,11 @@ Download</div>
   </tr>
   <tr>
     <td>Genre &nbsp;</td>
-    <td> <a href="{{ site.baseurl }}/categories#Big-tits">Big tits</a>, <a href="{{ site.baseurl }}/categories#Entertainer">Entertainer</a>, <a href="{{ site.baseurl }}/categories#Risky-Mosaic">Risky Mosaic</a>, <a href="{{ site.baseurl }}/categories#Sister">Sister</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a>, <a href="{{ site.baseurl }}/categories#Subjectivity">Subjectivity</a>, <a href="{{ site.baseurl }}/categories#Titty-fuck">Titty fuck</a></td>
+    <td> <a href="{{ site.baseurl }}/categories#Big+tits">Big tits</a>, <a href="{{ site.baseurl }}/categories#Entertainer">Entertainer</a>, <a href="{{ site.baseurl }}/categories#Risky+Mosaic">Risky Mosaic</a>, <a href="{{ site.baseurl }}/categories#Sister">Sister</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a>, <a href="{{ site.baseurl }}/categories#Subjectivity">Subjectivity</a>, <a href="{{ site.baseurl }}/categories#Titty+fuck">Titty fuck</a></td>
   </tr>
   <tr>
     <td>Star</td>
-    <td> <a href="{{ site.baseurl }}/tags#Mikami-Yua">Mikami Yua</a></td>
+    <td> <a href="{{ site.baseurl }}/tags#Mikami+Yua">Mikami Yua</a></td>
   </tr>
   <tr>
     <td>Label</td>
