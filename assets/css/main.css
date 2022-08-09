@@ -1454,6 +1454,7 @@ line-height: 30px;
 text-decoration: none;
 color: #fff;
 background-color: #263238;
+opacity: 0.25;
 }
 
 .recent-box .recent-list .recent-item:hover {
