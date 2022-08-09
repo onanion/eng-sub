@@ -116,11 +116,11 @@ Download</div>
   </tr>
   <tr>
     <td>Genre &nbsp;</td>
-    <td> <a href="{{ site.baseurl }}/categories#Big-tits">Big tits</a>, <a href="{{ site.baseurl }}/categories#Blow">Blow</a>, <a href="{{ site.baseurl }}/categories#Creampie">Creampie</a>, <a href="{{ site.baseurl }}/categories#Digital-Mosaic">Digital Mosaic</a>, <a href="{{ site.baseurl }}/categories#Drama">Drama</a>, <a href="{{ site.baseurl }}/categories#Married-Woman">Married Woman</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a></td>
+    <td> <a href="{{ site.baseurl }}/categories#Big+tits">Big tits</a>, <a href="{{ site.baseurl }}/categories#Blow">Blow</a>, <a href="{{ site.baseurl }}/categories#Creampie">Creampie</a>, <a href="{{ site.baseurl }}/categories#Digital+Mosaic">Digital Mosaic</a>, <a href="{{ site.baseurl }}/categories#Drama">Drama</a>, <a href="{{ site.baseurl }}/categories#Married+Woman">Married Woman</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a></td>
   </tr>
   <tr>
     <td>Star</td>
-    <td> <a href="{{ site.baseurl }}/tags#Takahashi-Shouko">Takahashi Shouko</a></td>
+    <td> <a href="{{ site.baseurl }}/tags#Takahashi+Shouko">Takahashi Shouko</a></td>
   </tr>
   <tr>
     <td>Label</td>
