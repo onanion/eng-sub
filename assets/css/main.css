@@ -1884,8 +1884,7 @@ font-weight: 400;
     font-size: 12px;
     left: 2.5%;
     bottom: 10%;
-    color: #fff;
-    text-shadow: 1px 1px 1px black;
+    color: #000;
   }
 
   .post-card .post-card-body .post-card-title {
