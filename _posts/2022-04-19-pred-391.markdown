@@ -56,11 +56,11 @@ Download</div>
   </tr>
   <tr>
     <td>Genre &nbsp;</td>
-    <td> <a href="{{ site.baseurl }}/categories#3P">3P</a>, <a href="{{ site.baseurl }}/categories#4P">4P</a>, <a href="{{ site.baseurl }}/categories#Big-tits">Big tits</a>, <a href="{{ site.baseurl }}/categories#Blow">Blow</a>, <a href="{{ site.baseurl }}/categories#Creampie">Creampie</a>, <a href="{{ site.baseurl }}/categories#Digital-Mosaic">Digital Mosaic</a>, <a href="{{ site.baseurl }}/categories#Drug">Drug</a>, <a href="{{ site.baseurl }}/categories#Female-investigator">Female investigator</a>, <a href="{{ site.baseurl }}/categories#Hardcore">Hardcore</a>, <a href="{{ site.baseurl }}/categories#Nasty">Nasty</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a></td>
+    <td> <a href="{{ site.baseurl }}/categories#3P">3P</a>, <a href="{{ site.baseurl }}/categories#4P">4P</a>, <a href="{{ site.baseurl }}/categories#Big+tits">Big tits</a>, <a href="{{ site.baseurl }}/categories#Blow">Blow</a>, <a href="{{ site.baseurl }}/categories#Creampie">Creampie</a>, <a href="{{ site.baseurl }}/categories#Digital+Mosaic">Digital Mosaic</a>, <a href="{{ site.baseurl }}/categories#Drug">Drug</a>, <a href="{{ site.baseurl }}/categories#Female+investigator">Female investigator</a>, <a href="{{ site.baseurl }}/categories#Hardcore">Hardcore</a>, <a href="{{ site.baseurl }}/categories#Nasty">Nasty</a>, <a href="{{ site.baseurl }}/categories#Solowork">Solowork</a></td>
   </tr>
   <tr>
     <td>Star</td>
-    <td> <a href="{{ site.baseurl }}/tags#Yuzuriha-Karen">Yuzuriha Karen</a></td>
+    <td> <a href="{{ site.baseurl }}/tags#Yuzuriha+Karen">Yuzuriha Karen</a></td>
   </tr>
   <tr>
     <td>Label</td>
