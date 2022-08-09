@@ -1448,8 +1448,12 @@ pre code {
   font-size: 12px;
   left: 2.5%;
   bottom: 10%;
-  color: #fff;
-  text-shadow: 0px 0px 1px black, 0px 0px 2px black;
+display: block;
+padding: 0 6px;
+line-height: 30px;
+text-decoration: none;
+color: #fff;
+background-color: #263238;
 }
 
 .recent-box .recent-list .recent-item:hover {
